@@ -1,5 +1,5 @@
 /admin
-.git/index
+/.git/index
 /.git/head
 /.docker
 /docker-compose.yml
